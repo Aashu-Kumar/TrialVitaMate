@@ -1,0 +1,10 @@
+{
+  "diabetes": {
+    "diet": ["High fiber foods", "Vegetables", "Whole grains"],
+    "exercise": ["Walking", "Yoga", "Cycling"]
+  },
+  "hypertension": {
+    "diet": ["Low salt diet", "Fruits", "Leafy vegetables"],
+    "exercise": ["Walking", "Stretching", "Light jogging"]
+  }
+}

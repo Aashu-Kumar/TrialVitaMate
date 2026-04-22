@@ -1,0 +1,5 @@
+{
+  "paracetamol": ["Avoid alcohol", "Avoid overdose"],
+  "diabetes": ["Avoid sugar", "Avoid junk food"],
+  "hypertension": ["Avoid salt", "Avoid stress"]
+}
